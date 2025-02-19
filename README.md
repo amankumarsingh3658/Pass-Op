@@ -11,14 +11,14 @@ Pass-op is a simple, yet powerful password manager built using React and Tailwin
 
 ## Usage
 
-Open the app and start adding your credentials.
-Use the form to input the website URL, username, and password.
-Your credentials will be saved securely in your browser’s local storage.
-You can update or delete credentials as needed.
+- **Open the app and start adding your credentials.
+- **Use the form to input the website URL, username, and password.
+- **Your credentials will be saved securely in your browser’s local storage.
+- **You can update or delete credentials as needed.
 
 ## Technologies Used
 
-React - A JavaScript library for building user interfaces.
-Tailwind CSS - A utility-first CSS framework for styling the UI.
-Local Storage - To store and retrieve website login details.
+- **React - A JavaScript library for building user interfaces.
+- **Tailwind CSS - A utility-first CSS framework for styling the UI.
+- **Local Storage - To store and retrieve website login details.
 
