@@ -16,7 +16,7 @@ Use the form to input the website URL, username, and password.
 Your credentials will be saved securely in your browser’s local storage.
 You can update or delete credentials as needed.
 
-##Technologies Used
+## Technologies Used
 
 React - A JavaScript library for building user interfaces.
 Tailwind CSS - A utility-first CSS framework for styling the UI.
