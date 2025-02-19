@@ -1,8 +1,24 @@
-# React + Vite
+# Pass-op - Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pass-op is a simple, yet powerful password manager built using React and Tailwind CSS. It allows users to securely store and manage their website credentials locally in their browser. No backend is required, as all data is saved using the browser's local storage, ensuring full control over your sensitive information.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Local Storage:** Store websites, usernames, and passwords securely in the browser.
+- **Minimalistic UI:** Built with Tailwind CSS, providing a clean and intuitive interface.
+- **Quick Access:** Easily retrieve, update, or delete your saved login credentials.
+- **No Backend:** Fully client-side, meaning no server is required for saving your credentials.
+
+## Usage
+
+Open the app and start adding your credentials.
+Use the form to input the website URL, username, and password.
+Your credentials will be saved securely in your browser’s local storage.
+You can update or delete credentials as needed.
+
+##Technologies Used
+
+React - A JavaScript library for building user interfaces.
+Tailwind CSS - A utility-first CSS framework for styling the UI.
+Local Storage - To store and retrieve website login details.
+
